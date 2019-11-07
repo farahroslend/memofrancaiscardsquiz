@@ -46,3 +46,7 @@ git root
 remote
 git add .
 git init
+git add .
+git commit -m "readme draft 2"
+git remote add origin https://github.com/farahroslend/memofrancaiscardsquiz.git
+git push -u origin master 
