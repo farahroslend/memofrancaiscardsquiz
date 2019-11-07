@@ -50,3 +50,6 @@ git add .
 git commit -m "readme draft 2"
 git remote add origin https://github.com/farahroslend/memofrancaiscardsquiz.git
 git push -u origin master 
+git add .
+git commit -m "index change"
+git push -u origin master
